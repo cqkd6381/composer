@@ -1,4 +1,3 @@
-# composer
     composer require cqkd6381/composer:dev-master
 
 In wendor's peer directory, create a new index.php file.
