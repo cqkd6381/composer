@@ -1,0 +1,14 @@
+{
+    "name": "cqkd6381/composer",
+    "description": "my first composer package",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cqkd6381",
+            "email": "cqkd6381@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
