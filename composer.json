@@ -1,7 +1,7 @@
 {
     "name": "cqkd6381/composer",
     "description": "my first composer package",
-    "type": "composer-plugin",
+    "type": "php",
     "license": "MIT",
     "authors": [
         {
