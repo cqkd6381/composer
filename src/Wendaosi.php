@@ -6,6 +6,7 @@
  * (c) cqkd6381 <cqkd6381@163.com>
  *
  */
+
 namespace Wendaosi;
 
 class Wendaosi
